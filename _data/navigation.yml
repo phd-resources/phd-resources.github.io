@@ -1,0 +1,64 @@
+# main links
+main:
+  - title: "General"
+    url: "/general/"
+  - title: "Tutorials"
+    url: "/tutorials/"
+  - title: "France"
+    url: "/france/"
+  - title: "ENPC"
+    url: "/enpc/"
+
+general:
+  - title: General
+    children:
+      - title: "Bibliography"
+        url: /general/bibliography/
+      - title: "Career"
+        url: /general/career/
+      - title: "Health"
+        url: /general/health/
+      - title: "Humanities"
+        url: /general/humanities/
+      - title: "Methods"
+        url: /general/methods/
+      - title: "Programming"
+        url: /general/humanities/
+      - title: "Teaching"
+        url: /general/teaching/
+      - title: "Writing"
+        url: /general/writing/
+
+tutorials:
+  - title: Tutorials
+    children:
+      - title: "Git"
+        url: /tutorials/git/
+      - title: "LaTeX"
+        url: /tutorials/latex/
+      - title: "VSCode"
+        url: /tutorials/vscode/
+      - title: "Zotero"
+        url: /tutorials/zotero/
+
+france:
+  - title: France
+    children:
+      - title: "Admin"
+        url: /france/admin/
+      - title: "Related"
+        url: /france/related/
+
+enpc:
+  - title: ENPC
+    children:
+      - title: "Admin"
+        url: /enpc/admin/
+      - title: "Digital"
+        url: /enpc/digital/
+      - title: "General"
+        url: /enpc/general/
+      - title: "Grad schools"
+        url: /enpc/gradschools/
+      - title: "Labs"
+        url: /enpc/labs/
