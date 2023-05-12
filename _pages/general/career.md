@@ -5,41 +5,40 @@ sidebar:
   nav: "general"
 ---
 
+## Networking
+
+### Social networks
+
+Researchers are very active on social networks, both for research communication and more personal interactions.
+
+- [LinkedIn](https://www.linkedin.com/): A business and employment-focused social media platform.
+- [Twitter](https://twitter.com/): An online social media and social networking service.
+- [Orcid](https://orcid.org/): Provides a persistent digital identifier (an ORCID iD) that you own and control, and that distinguishes you from every other researcher. You can connect your iD with your professional information — affiliations, grants, publications, peer review, and more.
+
+### Building a website
+
+Having your own website is essential for visibility.
+
+- [Wordpress](https://wordpress.com/): A web content management system. It was originally created as a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites.
+- [GitHub Pages + Jekyll](https://pages.github.com/): Websites for you and your projects, hosted and deployed directly from a GitHub repository. Some templates:
+  - [academicpages](https://academicpages.github.io/)
+  - [al-folio](https://alshedivat.github.io/al-folio/)
+  - [BeautifulJekyll](https://beautifuljekyll.com/)
+  - [MinimalMistakes](https://github.com/mmistakes/minimal-mistakes)
+
 ## Finding a job
 
-### Before the PhD
+### PhD
 
 - [FindAMasters](https://www.findamasters.com/)
-- [FindAPhD](https://www.findaphd.com/): A large list of PhD offers all over the world
+- [FindAPhD](https://www.findaphd.com/)
 - [DiscoverPhDs](https://www.discoverphds.com/)
 
-### After the PhD
+### Generic
 
-- 🇫🇷 [Passeport Docteur](https://andes.asso.fr/passeport-docteur/): A practical guide on life after a PhD
-- 🇫🇷 [Après le doctorat](https://wwwobs.univ-bpclermont.fr/atmos/fr/enseignement/futur_etudiant/apres_these.php): A summary of some career options after completing a PhD
-- 🇫🇷 [PhDTalent](https://www.phdtalent.fr/): Collaboration between researchers and private companies
-- [Adoc talent Management](https://en.adoc-tm.com/): Consulting firm in recruitment of PhDs
-
-### At all times
-
-- [AcademicPositions](https://academicpositions.com/): One of many similar websites listing academic job offers
+- [AcademicPositions](https://academicpositions.com/)
 - [VacancyEdu](https://vacancyedu.com/)
 - [EurAxess](https://euraxess.ec.europa.eu/)
 - [UniversityPositions](https://universitypositions.eu/)
 - [ScholarshipDB](https://scholarshipdb.net/)
 - [AcademicTransfer](https://www.academictransfer.com/en/jobs/)
-
-## Networking
-
-### Social networks
-
-- [LinkedIn](https://www.linkedin.com/): The unmissable platform to showcase your resume and connect with colleagues
-- [Twitter](https://twitter.com/): Researchers are very active on Twitter, both for research communication and more personal messages
-
-### Building a website
-
-- [Wordpress](https://wordpress.com/): a WYSIWYG blog editor
-- [GitHub Pages + Jekyll](https://pages.github.com/): a good pipeline for Markdown-based websites. Here are some nice templates:
-  - [academicpages](https://academicpages.github.io/)
-  - [BeautifulJekyll](https://beautifuljekyll.com/)
-  - [MinimalMistakes](https://github.com/mmistakes/minimal-mistakes)

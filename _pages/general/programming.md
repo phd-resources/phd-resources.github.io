@@ -7,10 +7,10 @@ sidebar:
 
 - [awesome](https://github.com/sindresorhus/awesome): An awesome list of awesome lists on basically anything you could ever need in your computer
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): Similar to awesome
-- [My GitHub stars](https://github.com/gdalle?tab=stars): A steadily expanding collection of useful open source stuff
 
 ## Learning to program
 
+- [The Programming Historian](https://programminghistorian.org/): Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows
 - [Computer Science Education](https://github.com/ossu/computer-science): From zero to hero in computer science
 - [Data Science Education](https://github.com/ossu/data-science): The same for data science
 - [StackOverflow](https://stackoverflow.com/): The largest forum for computer-related questions

@@ -1,8 +1,8 @@
 ---
-permalink: /general/health/
+permalink: /france/health/
 title: Health
 sidebar:
-  nav: "general"
+  nav: "france"
 ---
 
 The first rule of the PhD: your health comes before your research!

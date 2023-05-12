@@ -16,16 +16,16 @@ sidebar:
 ### Note taking
 
 - [Zettelkasten](https://zettelkasten.de/introduction/): An introduction to the Zettelkasten method (see our page on [writing](writing/) for relevant software)
+- [Zettlr](https://www.zettlr.com/): An alternative to Obsidian
+- [Obsidian](https://obsidian.md/): Organize and connect references and notes using Markdown, following the Zettelkasten method
+- [Notion](https://www.notion.so/)
+- [LiquidPaper](https://www.liquidtext.net/)
 
 ### Time management
 
 - [Hours](https://hours.zone/): A website to help you focus during pre-defined periods of time, alone or with friends
 - [Forest](https://www.forestapp.cc/): An app to stay focused and grow trees in the process!
 - [ColdTurkey](https://getcoldturkey.com/): Block everything you don't need to increase productivity
-
-### Working from home
-
-- 🇫🇷 [Télétravail en mode Covid](https://travail-emploi.gouv.fr/actualites/l-actualite-du-ministere/article/teletravail-en-mode-covid-19-on-vous-guide): Government advice and resources, including legal aspects, for home workers
 
 ## Software choices
 
@@ -39,4 +39,4 @@ sidebar:
 
 - [The Turing way](https://the-turing-way.netlify.app/welcome): A guide to ethical, reproducible and collaborative data science
 - 🇫🇷 [Reproducible research MOOC](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/): A MOOC by Inria on reproducible research
-- 🇫🇷 [Vers une recherche reproductible ](https://rr-france.github.io/bookrr/): A French e-book on reproducible research
+- 🇫🇷 [Vers une recherche reproductible](https://rr-france.github.io/bookrr/): A French e-book on reproducible research

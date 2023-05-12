@@ -1,13 +1,9 @@
 ---
-permalink: /general/humanities/
+permalink: /france/humanities/
 title: Humanities
 sidebar:
-  nav: "general"
+  nav: "france"
 ---
-
-## All fields
-
-- [The Programming Historian](https://programminghistorian.org/): Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows
 
 ### Data analysis
 
