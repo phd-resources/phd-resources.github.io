@@ -12,4 +12,4 @@ They can be useful to anyone, including students at all levels, academic researc
 
 This is meant to be a collaborative endeavor, so if you have things to add, you're more than welcome to contribute by <a href="mailto:guillaume.dalle@epfl.ch?subject=contributing to PhD Resources">sending me an email</a> or filing an issue on the [GitHub repository](https://github.com/phd-resources/phd-resources.github.io).
 
-> Disclaimer: I have not tested all of these tools myself, and their descriptions are mostly taken from Wikipedia or their websites. Be sure to check that each one is safe and adequate for your work before relying on it.
+> Disclaimer: I have not tested all of these tools myself, and their descriptions are mostly taken from Wikipedia or their own websites. Be sure to check that each one is safe and adequate for your work before relying on it.

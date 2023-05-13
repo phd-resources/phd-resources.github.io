@@ -5,68 +5,70 @@ sidebar:
   nav: "general"
 ---
 
-## One tool for each format
+- [Awesome scientific writing](https://github.com/writing-resources/awesome-scientific-writing): A curated list of awesome tools, demos and resources to go beyond LaTeX.
 
-- [Awesome scientific writing](https://github.com/writing-resources/awesome-scientific-writing): Like this page, but with more stuff
+## Various types of documents
 
 ### Office
 
-- [LibreOffice](https://www.libreoffice.org/): The open source alternative to Microsoft Office (Word, Excel, PowerPoint)
-- [Office 365](https://www.microsoft.com/en-us/education/products/office): The online version of Microsoft Office offers free licenses for students and teachers
+- [LibreOffice](https://www.libreoffice.org/): A free and powerful office suite, and a successor to OpenOffice.
+- [Office 365](https://www.microsoft.com/en-us/education/products/office): Students and educators at eligible institutions can sign up for Office 365 Education for free, including Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.
 
 ### Markdown
 
-- [Markdown guide](https://www.markdownguide.org/): A step-by-step guide to everything you can do with Markdown
-- [Marktext](https://github.com/marktext/marktext): Open source Markdown editor
+- [Markdown guide](https://www.markdownguide.org/): A free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.
+- [Marktext](https://github.com/marktext/marktext): A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
 ### LaTeX
 
-- [LaTeX](../../tutorials/latex/): The reference tool for scientific and mathematical writing
-- [Overleaf](https://www.overleaf.com/) : Online LaTeX editor
-- [Beamer](https://ctan.org/pkg/beamer): A latex package to create slides and posters
+- [LaTeX](https://www.latex-project.org/): A high-quality typesetting system; it includes features designed for the production of technical and scientific documentation. LaTeX is the de facto standard for the communication and publication of scientific documents.
+- [Overleaf](https://www.overleaf.com/) : An easy to use, online, collaborative LaTeX editor.
 
-### Handwriting
+### Typst
 
-- [Google Jamboard](https://jamboard.google.com/): Collaborate in real time on a virtual white board
-- [Xournal++](https://xournalpp.github.io/) : Software for graphical tablets
+- [Typst](https://typst.app/): A new markup-based typesetting system that is powerful and easy to learn, born out of frustration with LaTeX.
 
 ### Slides
 
-- [reveal.md](https://github.com/webpro/reveal-md): Create slides easily from Markdown documents
-- [Marp](https://github.com/marp-team/marp): An alternative to reveal
+- [Marp](https://marp.app/): Create beautiful slide decks using an intuitive Markdown experience.
+- [Beamer](https://ctan.org/pkg/beamer): A LaTeX document class for creating presentation slides, with a wide range of templates and a set of features for making slideshow effects.
 
 ### Conversion
 
-- [Pandoc](https://pandoc.org/): Universal text file converter, works very well with Markdown and LaTeX
+- [Pandoc](https://pandoc.org/): If you need to convert files from one markup format into another, pandoc is your swiss-army knife.
 
-### Misc
+### Handwriting
 
-- [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
-- [XMind](https://www.xmind.net/)
+- [Google Jamboard](https://jamboard.google.com/): A digital interactive whiteboard that can be used for collaboration
+- [Xournal++](https://xournalpp.github.io/): An open source tool for annotating PDF files. It supports pen, mouse, and keyboard input.
 
 ## General tips
 
 - [OpenAcademic](https://www.oacommunity.org/resources) : Various resources and templates related to academic writing
-- [ThesisWhisperer](https://sites.google.com/site/twblacklinemasters/home?authuser=0): One-page tools and workshops for writing
-- [ACRONYM](https://github.com/bacook17/acronym): Acronym CReatiON for You and Me
+- [ThesisWhisperer](https://sites.google.com/site/twblacklinemasters/): One-page tools and workshops for writing
 
 ### Translation and spelling
 
-- [DeepL](https://www.deepl.com/translator) : One of the best automatic translators for scientific purposes
-- [LanguageTool](https://languagetool.org/): A spellchecker in multiple languages with browser and Word interfaces
-- [Spell-checker](https://www.websiteplanet.com/webtools/spell-checker/): Similar to LanguageTool
-- [Antidote](https://www.antidote.info/en): Writing assistance software for English and French
-- [Grammarly](https://www.grammarly.com/)
+- [DeepL](https://www.deepl.com/translator) : A neural machine translation service first developed within Linguee
+- [Grammarly](https://www.grammarly.com/): A cloud-based typing assistant. It reviews spelling, grammar, punctuation, clarity, engagement, and delivery mistakes in English texts, detects plagiarism, and suggests replacements for the identified errors.
+- [LanguageTool](https://languagetool.org/): A multilingual spelling, style, and grammar checker that helps correct or paraphrase texts
+- [Spell-checker](https://www.websiteplanet.com/webtools/spell-checker/): Free Online Spell Checker with URL input.
+- [Antidote](https://www.antidote.info/en): Writing assistance software for English and French.
 
 ### Style
 
 - [Academic phrasebank](https://www.phrasebank.manchester.ac.uk/) : Bank of expressions to improve scientific writing
 - [Thesaurus](https://www.thesaurus.com/) : Extend your vocabulary with synonyms and antonyms
+- [ACRONYM](https://github.com/bacook17/acronym): Acronym CReatiON for You and Me
 
-### Visualization
+### Graphics
 
-- [diagrams.net](https://app.diagrams.net/): Draw simple diagrams online
-- [BioRender](https://biorender.com/) / [BioIcons](https://bioicons.com/): Create professional science diagrams
-- [Inkscape](https://inkscape.org/): Professional software for generating vector graphics
-- [Data to Viz](https://www.data-to-viz.com/) : Choose the right data visualization
-- [DataVizProject](https://datavizproject.com/): Choose the right data visualization (again)
+- [diagrams.net](https://app.diagrams.net/): Free online diagram software.
+- [BioIcons](https://bioicons.com/): A library of free open source icons for science illustrations in biology and chemistry (mostly).
+- [BioRender](https://biorender.com/): Thousands of pre-made icons and templates from more than 30 fields of life sciences.
+- [Inkscape](https://inkscape.org/): Professional software for creating vector imagery.
+
+### Data visualization
+
+- [Data to Viz](https://www.data-to-viz.com/): Leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid.
+- [DataVizProject](https://datavizproject.com/): A website trying to present all relevant data visualizations, so you can find the right visualization and get inspired how to make them.

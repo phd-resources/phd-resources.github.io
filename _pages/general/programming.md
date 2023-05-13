@@ -5,36 +5,25 @@ sidebar:
   nav: "general"
 ---
 
-- [awesome](https://github.com/sindresorhus/awesome): An awesome list of awesome lists on basically anything you could ever need in your computer
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): Similar to awesome
+- [awesome](https://github.com/sindresorhus/awesome): Awesome lists about all kinds of interesting topics.
 
 ## Learning to program
 
+- [Computer Science Education](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science
+- [Data Science Education](https://github.com/ossu/data-science): Path to a free self-taught education in Data Science
 - [The Programming Historian](https://programminghistorian.org/): Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows
-- [Computer Science Education](https://github.com/ossu/computer-science): From zero to hero in computer science
-- [Data Science Education](https://github.com/ossu/data-science): The same for data science
-- [StackOverflow](https://stackoverflow.com/): The largest forum for computer-related questions
-- [NoCode](https://github.com/kelseyhightower/nocode): Best practices for secure and reliable applications
+- [StackOverflow](https://stackoverflow.com/): Find the best answer to your technical question, help others answer theirs.
+- [NoCode](https://github.com/kelseyhightower/nocode): The best way to write secure and reliable applications.
+
+## Good practices
+
+- [The Turing way](https://the-turing-way.netlify.app/): An open source collaborative guide to make sure that the projects you work on are easy to reproduce and reuse.
+- [Zenodo](https://zenodo.org/): A general-purpose open repository that allows researchers to deposit research papers, data sets, research software, reports, and any other research related digital artefacts. For each submission, a persistent digital object identifier (DOI) is minted, which makes the stored items easily citeable.
+- [PapersWithCode](https://paperswithcode.com/): Highlights trending Machine Learning research and the code to implement it.
+- [Choose a license](https://choosealicense.com/): An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
 
 ## Development tools
 
-- [VSCode](../../tutorials/vscode/): Integrated Development Environment for all your text editing and programming needs
-- [Git & GitHub](../../tutorials/git/): Save, compare and share versions of source code and documents
-
-## Publishing your code
-
-- [Zenodo](https://zenodo.org/): A place to publish source code and datasets and give them a unique DOI
-- [PapersWithCode](https://paperswithcode.com/): Publish papers jointly with their code
-- [Choose a license](https://choosealicense.com/): Choose the right open source license for you
-
-## Programming languages
-
-### General-purpose
-
-- [Julia](../../tutorials/julia/)
-- [Python](../../tutorials/julia/)
-- [R](https://www.r-project.org/)
-
-### Problem-specific
-
-- [RegexOne](https://regexone.com/): An interactive tutorial on regular expressions
+- [VSCode](https://code.visualstudio.com/): A source-code editor made by Microsoft, ranked the most popular developer environment tool in 2022.
+- [Git](https://git-scm.com/): A distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers.
+- [GitHub](https://github.com/): An Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.

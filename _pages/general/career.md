@@ -17,7 +17,7 @@ Researchers are very active on social networks, both for research communication 
 
 ### Building a website
 
-Having your own website is essential for visibility.
+Having your own website is essential for visibility, to showcase your CV and publications.
 
 - [Wordpress](https://wordpress.com/): A web content management system. It was originally created as a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites.
 - [GitHub Pages + Jekyll](https://pages.github.com/): Websites for you and your projects, hosted and deployed directly from a GitHub repository. Some templates:

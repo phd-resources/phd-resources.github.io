@@ -7,11 +7,6 @@ sidebar:
 
 ## Interactive lessons
 
-- [Wooclap](https://www.wooclap.com): A (premium) software for live quizzes during class
-- [Kahoot](https://kahoot.com/): A free substitute for Wooclap
-- [Poll Everywhere](https://pollev.com/home): Quickly create and share polls
-- [FastCups](https://cups.fast.ai/): Continuously check whether your students are lost to adapt your rhythm
-
-## Appointments with students
-
-- [Calendly](https://calendly.com/)
+- [Wooclap](https://www.wooclap.com): A tool to interact, capture attention and measure understanding during presentations.
+- [Kahoot](https://kahoot.com/): A learning platform making it easy to create, share, and host learning sessions that drive compelling engagement.
+- [Poll Everywhere](https://pollev.com/home): An online service for classroom response and audience response systems.

@@ -6,7 +6,7 @@ sidebar:
 ---
 
 > Work in progress. In the meantime, here are some great tutorials:
-> 
+>
 > - [Git immersion](https://gitimmersion.com/index.html)
 > - [Git: the simple guide](https://up1.github.io/git-guide/index.html)
 > - [GitHub Learning Lab](https://lab.github.com/)
