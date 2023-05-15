@@ -20,9 +20,3 @@ sidebar:
 - [Scrivener](https://www.literatureandlatte.com/scrivener/): A word-processing program and outliner designed for authors which provides a management system for documents, notes and metadata.
 - [xmind](https://xmind.app/): A full-featured mind mapping and brainstorming app.
 - [LiquidPaper](https://www.liquidtext.net/): A PDF reader and editor which captures your reading, notes, highlights, annotations and observations just like paper; but goes further to reveal their connections: to source materials and each other in a way which documents and maps your project in a clear and shareable form.
-
-## Software choice
-
-- [switching.software](https://switching.software/): Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
-- [Framasoft](https://framasoft.org/en/): A nonprofit organization focused on free software valorisation, it is one of the main French language portals to the free and open-source culture.
-- [Digital Scholar](https://digitalscholar.org/): Software and services designed by historians for research, publishing, and cultural heritage work.
