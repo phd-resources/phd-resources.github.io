@@ -7,4 +7,4 @@ sidebar:
   nav: "enpc"
 ---
 
-This section gathers resources that can be useful for students and academics at [École des Ponts ParisTech](https://ecoledesponts.fr/en).
+This section gathers resources that can be useful for students and academics at [École des Ponts ParisTech](https://ecoledesponts.fr/en). Unfortunately, many websites are only available in French.

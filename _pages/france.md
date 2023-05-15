@@ -7,4 +7,4 @@ sidebar:
   nav: "france"
 ---
 
-This section gathers resources that can be useful for students and academics in France.
+This section gathers resources that can be useful for students and academics in France. Unfortunately, many websites are only available in French.

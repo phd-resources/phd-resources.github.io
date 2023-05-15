@@ -42,11 +42,6 @@ sidebar:
 - [Google Jamboard](https://jamboard.google.com/): A digital interactive whiteboard that can be used for collaboration
 - [Xournal++](https://xournalpp.github.io/): An open source tool for annotating PDF files. It supports pen, mouse, and keyboard input.
 
-## General tips
-
-- [OpenAcademic](https://www.oacommunity.org/resources) : Various resources and templates related to academic writing
-- [ThesisWhisperer](https://sites.google.com/site/twblacklinemasters/): One-page tools and workshops for writing
-
 ### Translation and spelling
 
 - [DeepL](https://www.deepl.com/translator) : A neural machine translation service first developed within Linguee
@@ -54,6 +49,11 @@ sidebar:
 - [LanguageTool](https://languagetool.org/): A multilingual spelling, style, and grammar checker that helps correct or paraphrase texts
 - [Spell-checker](https://www.websiteplanet.com/webtools/spell-checker/): Free Online Spell Checker with URL input.
 - [Antidote](https://www.antidote.info/en): Writing assistance software for English and French.
+
+## General tips
+
+- [OpenAcademic](https://www.oacommunity.org/resources) : Various resources and templates related to academic writing
+- [ThesisWhisperer](https://sites.google.com/site/twblacklinemasters/): One-page tools and workshops for writing
 
 ### Style
 
@@ -64,9 +64,15 @@ sidebar:
 ### Graphics
 
 - [diagrams.net](https://app.diagrams.net/): Free online diagram software.
+- [TikZit](https://tikzit.github.io/): A GUI editor for graphs and string diagrams whose files can be included directly in papers typeset using LaTeX.
+- [Inkscape](https://inkscape.org/): Professional software for creating vector imagery.
+- [Canva](https://www.canva.com/): A graphic design platform that is used to create social media graphics and presentations, and includes readymade templates.
+
+### Icons
+
 - [BioIcons](https://bioicons.com/): A library of free open source icons for science illustrations in biology and chemistry (mostly).
 - [BioRender](https://biorender.com/): Thousands of pre-made icons and templates from more than 30 fields of life sciences.
-- [Inkscape](https://inkscape.org/): Professional software for creating vector imagery.
+- [PhyloPic](https://www.phylopic.org/): Free silhouette images of animals, plants, and other life forms.
 
 ### Data visualization
 

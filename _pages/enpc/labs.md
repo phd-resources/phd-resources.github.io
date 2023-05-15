@@ -1,6 +1,6 @@
 ---
 permalink: /enpc/labs/
-title: Research laboratories
+title: Labs
 sidebar:
   nav: "enpc"
 ---

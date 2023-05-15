@@ -4,10 +4,10 @@ main:
     url: "/general/"
   - title: "Tutorials"
     url: "/tutorials/"
-  # - title: "France"
-  #   url: "/france/"
-  # - title: "ENPC"
-  #   url: "/enpc/"
+  - title: "France"
+    url: "/france/"
+  - title: "ENPC"
+    url: "/enpc/"
 
 general:
   - title: General
@@ -20,8 +20,12 @@ general:
         url: /general/health/
       - title: "Methods"
         url: /general/methods/
-      - title: "Programming"
-        url: /general/programming/
+      - title: "Publishing"
+        url: /general/publishing/
+      - title: "Similar websites"
+        url: /general/similar/
+      - title: "Software"
+        url: /general/software/
       - title: "Teaching"
         url: /general/teaching/
       - title: "Writing"
@@ -44,19 +48,23 @@ france:
     children:
       - title: "Admin"
         url: /france/admin/
-      - title: "Related"
-        url: /france/related/
+      - title: "Career"
+        url: /france/career/
+      - title: "Health"
+        url: /france/health/
+      - title: "Similar websites"
+        url: /france/similar/
 
 enpc:
   - title: ENPC
     children:
       - title: "Admin"
         url: /enpc/admin/
-      - title: "Digital"
-        url: /enpc/digital/
-      - title: "General"
-        url: /enpc/general/
       - title: "Grad schools"
         url: /enpc/gradschools/
+      - title: "Health"
+        url: /enpc/health/
       - title: "Labs"
         url: /enpc/labs/
+      - title: "Software"
+        url: /enpc/software/

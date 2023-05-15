@@ -10,14 +10,18 @@ sidebar:
 ### Search engines
 
 - [Google Scholar](https://scholar.google.com/): A freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats and disciplines.
+- [Semantic Scholar](https://www.semanticscholar.org/): An AI-powered research tool for scientific literature that uses natural language processing to provide summaries for scholarly papers.
 
 ### Full texts & preprints
 
 - [Arxiv](https://arxiv.org/): A free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
-- [HAL](https://hal.science/): An open archive where authors can deposit scholarly documents from all academic fields. While it is primarily directed towards French academics, participation is not restricted to them .
+- [HAL](https://hal.science/): An open archive where authors can deposit scholarly documents from all academic fields. While it is primarily directed towards French academics, participation is not restricted to them.
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/): A free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics.
 - [SSRN](https://www.ssrn.com/): A repository for preprints devoted to the rapid dissemination of scholarly research in the social sciences, humanities, life sciences, and health sciences, among others.
+- [PapersWithCode](https://paperswithcode.com/): Highlights trending Machine Learning research and the code to implement it.
 - [Ar5iv](https://ar5iv.org): Articles from arXiv.org as responsive HTML5 web pages.
 - [ResearchGate](https://www.researchgate.net/): A European commercial social networking site for scientists and researchers to share papers, ask and answer questions, and find collaborators.
+- [Unpaywall](https://unpaywall.org/): A browser plugin to harvest Open Access content from over 50,000 publishers and repositories.
 
 ### The restricted section
 
@@ -36,6 +40,7 @@ The following websites contain millions of full-text articles and books, gathere
 - [ConnectedPapers](https://www.connectedpapers.com/): Explore connected papers in a visual graph where papers are arranged according to their similarity.
 - [VosViewer](https://www.vosviewer.com/): A software tool for constructing and visualizing bibliometric networks.
 - [Scite.ai](https://scite.ai/): A platform for discovering and evaluating scientific articles via Smart Citations: this allow users to see how a publication has been cited by providing the context of the citation and a classification describing whether it provides supporting or contrasting evidence for the cited claim.
+- [arXiv Xplorer](https://arxivxplorer.com/): A semantic search engine for ArXiv based on language models.
 
 ### Keeping up-to-date
 
@@ -54,19 +59,13 @@ The following websites contain millions of full-text articles and books, gathere
 
 - [Tropy](https://tropy.org/): A free and open-source desktop knowledge organization application that helps users manage and describe photographs of research materials.
 
-### Creating bibliographies
+## Creating bibliographies
 
 - [ZoteroBib](https://zbib.org/): Build a bibliography instantly from paper titles or URLs.
 - [AnyStyle](https://anystyle.io/): Parse a list of citations in any style to build a bibliography.
+- [Recite](https://reciteworks.com/): Checks that your in text citations match the reference list at the end of your work.
 
-## Miscellaneous
-
-### Academic metrics
-
-- [Scimago Journal Rankings](https://www.scimagojr.com/): A measure of the prestige of scholarly journals that accounts for both the number of citations received by a journal and the prestige of the journals where the citations come from.
-- [Altmetric](https://www.altmetric.com/): A data science company that tracks where published research is mentioned online, and provides tools and services to monitor this activity,
-
-### Online courses
+## Online courses
 
 - [Coursera](https://www.coursera.org/): A U.S.-based massive open online course provider working with universities and other organizations to offer online courses, certifications, and degrees in a variety of subjects.
 - [OpenClassrooms](https://openclassrooms.com/en/): A France-based online education platform for vocational training, providing courses in IT, technology, entrepreneurship, and digital skills.

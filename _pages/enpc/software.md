@@ -1,6 +1,6 @@
 ---
-permalink: /enpc/digital/
-title: Digital tools
+permalink: /enpc/software/
+title: Software
 sidebar:
   nav: "enpc"
 ---
