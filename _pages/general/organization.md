@@ -1,6 +1,6 @@
 ---
-permalink: /general/methods/
-title: Methods
+permalink: /general/organization/
+title: Organization
 sidebar:
   nav: "general"
 ---
