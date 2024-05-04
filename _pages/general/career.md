@@ -20,6 +20,7 @@ Researchers are very active on social networks, both for research communication 
 Having your own website is essential for visibility, to showcase your CV and publications.
 
 - [Wordpress](https://wordpress.com/): A web content management system. It was originally created as a tool to publish blogs but has evolved to support publishing other web content, including more traditional websites.
+- [Google Sites](https://sites.google.com/): A simple and intuitive platform to build websites.
 - [GitHub Pages + Jekyll](https://pages.github.com/): Websites for you and your projects, hosted and deployed directly from a GitHub repository. Some templates:
   - [academicpages](https://academicpages.github.io/)
   - [al-folio](https://alshedivat.github.io/al-folio/)
@@ -42,3 +43,5 @@ Having your own website is essential for visibility, to showcase your CV and pub
 - [UniversityPositions](https://universitypositions.eu/)
 - [ScholarshipDB](https://scholarshipdb.net/)
 - [AcademicTransfer](https://www.academictransfer.com/en/jobs/)
+- [AcademicJobsOnline.org](https://academicjobsonline.org)
+- [InsideHigherEd](https://www.insidehighered.com)
