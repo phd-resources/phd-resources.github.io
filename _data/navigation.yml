@@ -2,8 +2,6 @@
 main:
   - title: "General"
     url: "/general/"
-  - title: "Tutorials"
-    url: "/tutorials/"
   - title: "France"
     url: "/france/"
   - title: "ENPC"
@@ -30,18 +28,6 @@ general:
         url: /general/teaching/
       - title: "Writing"
         url: /general/writing/
-
-tutorials:
-  - title: Tutorials
-    children:
-      - title: "Git"
-        url: /tutorials/git/
-      - title: "LaTeX"
-        url: /tutorials/latex/
-      - title: "VSCode"
-        url: /tutorials/vscode/
-      - title: "Zotero"
-        url: /tutorials/zotero/
 
 france:
   - title: France

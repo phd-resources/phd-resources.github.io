@@ -7,7 +7,7 @@ sidebar:
   nav: "enpc"
 ---
 
-This section gathers resources that can be useful for students and academics at my alma mater [École des Ponts ParisTech](https://ecoledesponts.fr/en). The following subjects are covered:
+This section gathers resources that can be useful for students and academics at my university [École Nationale des Ponts et Chaussées](https://ecoledesponts.fr/en). The following subjects are covered:
 
 - [Admin](./admin)
 - [Grad schools](./gradschools)
