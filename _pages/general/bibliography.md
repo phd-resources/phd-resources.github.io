@@ -41,7 +41,7 @@ The following websites contain millions of full-text articles and books, gathere
 - [VosViewer](https://www.vosviewer.com/): A software tool for constructing and visualizing bibliometric networks.
 - [Scite.ai](https://scite.ai/): A platform for discovering and evaluating scientific articles via Smart Citations: this allow users to see how a publication has been cited by providing the context of the citation and a classification describing whether it provides supporting or contrasting evidence for the cited claim.
 - [arXiv Xplorer](https://arxivxplorer.com/): A semantic search engine for ArXiv based on language models.
-
+- [Perlego Research Assistant](https://www.perlego.com/research-assistant): Generate an academic overview on nearly any topic with direct references from over a million textbooks.
 ### Keeping up-to-date
 
 - [Google Scholar alerts](https://scholar.google.com/intl/en/scholar/help.html#alerts): Get emails periodically with newly published papers that match your search criteria.
