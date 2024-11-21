@@ -93,7 +93,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : "Guillaume Dalle" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/giomdal"
     - "https://www.linkedin.com/in/guillaume-dalle"
     - "https://github.com/gdalle"
 
